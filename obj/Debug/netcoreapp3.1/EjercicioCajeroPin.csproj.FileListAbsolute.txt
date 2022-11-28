@@ -1,0 +1,14 @@
+C:\Users\aniba\source\repos\EjercicioCajeroPin\EjercicioCajeroPin\bin\Debug\netcoreapp3.1\EjercicioCajeroPin.exe
+C:\Users\aniba\source\repos\EjercicioCajeroPin\EjercicioCajeroPin\bin\Debug\netcoreapp3.1\EjercicioCajeroPin.deps.json
+C:\Users\aniba\source\repos\EjercicioCajeroPin\EjercicioCajeroPin\bin\Debug\netcoreapp3.1\EjercicioCajeroPin.runtimeconfig.json
+C:\Users\aniba\source\repos\EjercicioCajeroPin\EjercicioCajeroPin\bin\Debug\netcoreapp3.1\EjercicioCajeroPin.runtimeconfig.dev.json
+C:\Users\aniba\source\repos\EjercicioCajeroPin\EjercicioCajeroPin\bin\Debug\netcoreapp3.1\EjercicioCajeroPin.dll
+C:\Users\aniba\source\repos\EjercicioCajeroPin\EjercicioCajeroPin\bin\Debug\netcoreapp3.1\EjercicioCajeroPin.pdb
+C:\Users\aniba\source\repos\EjercicioCajeroPin\EjercicioCajeroPin\obj\Debug\netcoreapp3.1\EjercicioCajeroPin.csproj.AssemblyReference.cache
+C:\Users\aniba\source\repos\EjercicioCajeroPin\EjercicioCajeroPin\obj\Debug\netcoreapp3.1\EjercicioCajeroPin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aniba\source\repos\EjercicioCajeroPin\EjercicioCajeroPin\obj\Debug\netcoreapp3.1\EjercicioCajeroPin.AssemblyInfoInputs.cache
+C:\Users\aniba\source\repos\EjercicioCajeroPin\EjercicioCajeroPin\obj\Debug\netcoreapp3.1\EjercicioCajeroPin.AssemblyInfo.cs
+C:\Users\aniba\source\repos\EjercicioCajeroPin\EjercicioCajeroPin\obj\Debug\netcoreapp3.1\EjercicioCajeroPin.csproj.CoreCompileInputs.cache
+C:\Users\aniba\source\repos\EjercicioCajeroPin\EjercicioCajeroPin\obj\Debug\netcoreapp3.1\EjercicioCajeroPin.dll
+C:\Users\aniba\source\repos\EjercicioCajeroPin\EjercicioCajeroPin\obj\Debug\netcoreapp3.1\EjercicioCajeroPin.pdb
+C:\Users\aniba\source\repos\EjercicioCajeroPin\EjercicioCajeroPin\obj\Debug\netcoreapp3.1\EjercicioCajeroPin.genruntimeconfig.cache
